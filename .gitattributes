@@ -1,5 +1,0 @@
-# Fuerza LF para que los hashes de packwiz no cambien por CRLF
-*.toml text eol=lf
-mods/*.pw.toml text eol=lf
-pack.toml text eol=lf
-index.toml text eol=lf
