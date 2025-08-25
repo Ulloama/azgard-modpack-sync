@@ -1,0 +1,13 @@
+name = "PlayerRevive"
+filename = "PlayerRevive_FORGE_v2.0.17_mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d047e857d8b0799f8b54056c6fd20be89ee5b4af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5491953
+project-id = 266890

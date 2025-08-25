@@ -1,0 +1,13 @@
+name = "Animation Overhaul"
+filename = "Animation_Overhaul-forge-1.19.x-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c28e54ec581f1d27be6df27c030faf5d417121ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5422340
+project-id = 1028436

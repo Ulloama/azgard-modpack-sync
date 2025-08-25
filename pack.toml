@@ -1,0 +1,13 @@
+name = "Azgard"
+author = "Azgard Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8b4883c20986337330c17cf0100fc9aeac4c286e47bd37f392e5c18a75935528"
+
+[versions]
+forge = "43.3.0"
+minecraft = "1.19.2"

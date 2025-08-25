@@ -1,0 +1,13 @@
+name = "Keep XP After Death"
+filename = "keep_xp_on_deth-1.1.0-forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a429901d328d43934ac407c062fcc5393a121dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6395842
+project-id = 1083830

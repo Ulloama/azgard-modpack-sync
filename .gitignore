@@ -1,0 +1,6 @@
+# caches locales de packwiz
+.packwiz/
+packwiz-cache/
+.cache/
+# sistemas
+Thumbs.db

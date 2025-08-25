@@ -1,0 +1,13 @@
+name = "Argentina's delight"
+filename = "Argentina's delight 1.19.2 (3.0 beta).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36620b1d6794a1f9486f7e0030b6c36e2a0862ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4818259
+project-id = 831127

@@ -1,0 +1,13 @@
+name = "Good O'l Currency Reforged"
+filename = "Good O'l Currency Reforged 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae3363cc8e86e64a3f874fb1ead2e0b95c3ce824"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5237796
+project-id = 658066

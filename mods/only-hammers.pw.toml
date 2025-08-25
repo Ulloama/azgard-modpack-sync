@@ -1,0 +1,13 @@
+name = "Only Hammers"
+filename = "onlyhammers-com.blocklegend001.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f225a6d5838a1a320a06ddbef2867d2ade42d29e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5523052
+project-id = 909723

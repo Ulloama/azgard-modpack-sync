@@ -1,0 +1,13 @@
+name = "Argentina Food Mod"
+filename = "Argentina Food Mod - 1.19.2 V.01.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e55b1fbdc2bc6f0e001a094524b6839de4d281c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4378435
+project-id = 386762

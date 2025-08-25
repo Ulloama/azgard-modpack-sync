@@ -1,0 +1,13 @@
+name = "Corail Deconstruction Table"
+filename = "Corail-DT-1.19.2-475.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c50b71ee5d4d9c1f37a2307814989d932e6a737e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5873958
+project-id = 444880
