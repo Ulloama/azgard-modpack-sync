@@ -3,11 +3,11 @@ filename = "onlyhammers-com.blocklegend001.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f225a6d5838a1a320a06ddbef2867d2ade42d29e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/p5wmRC3H/versions/iYgQLQBk/onlyhammers-com.blocklegend001.jar"
+hash-format = "sha512"
+hash = "0fec40ae107823fb59056769dd227b94feb8291e22cd70b706c96e36e7617df3466809759b6f7817b234e970222eea6241e4fc7791e24b74dc624424ad87edb6"
 
 [update]
-[update.curseforge]
-file-id = 5523052
-project-id = 909723
+[update.modrinth]
+mod-id = "p5wmRC3H"
+version = "iYgQLQBk"

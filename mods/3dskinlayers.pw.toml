@@ -1,0 +1,13 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-forge-1.9.0-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/fyJ06o6O/skinlayers3d-forge-1.9.0-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "dfafed440a4e778129d4d6f3d8da5275909946ad6eff7312787ddd3898f40418c953d868b255043868139325e36fcfcb7622baf6f694d7e31c77b5542cd15253"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "fyJ06o6O"
